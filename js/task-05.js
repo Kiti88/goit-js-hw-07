@@ -13,7 +13,4 @@ const body = document.body;
 
       body.style.backgroundColor = randomColor;
       colorSpan.textContent = randomColor;
-
-      // Optional: You can also change the text color to ensure readability
-      colorSpan.style.color = randomColor;
     });
